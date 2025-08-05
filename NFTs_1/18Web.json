@@ -1,0 +1,25 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Hamster Traveler's Blog #18",
+  "description": "Street with two very beautiful rainbows in the sky",
+  "series_number": 18,
+  "collection": {
+    "id": "ae2d43d3-330c-4bfb-b413-d601beec8c4a",
+    "name": "Hamster Traveler's Blog",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "I travel around the world, take selfies and share them with you. Traveling requires money, so I sell my impressions."
+      },
+      {
+        "type": "icon",
+        "value": "https://magenta-rare-gorilla-953.mypinata.cloud/ipfs/bafybeiasz7y3euhomsr2mq72wpfitezcwxc3cbkbbhed63sxxxjjgdjsyi"
+      },
+      {
+        "type": "banner",
+        "value": "https://magenta-rare-gorilla-953.mypinata.cloud/ipfs/bafybeiez5uowurfxk7r47vb3sjwrvgajfbbiycufa7njfdydt3pe4myyfm"
+      }
+    ]
+  }
+}
